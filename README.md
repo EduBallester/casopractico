@@ -28,7 +28,7 @@ En la práctica he priorizado la arquitectura del proyecto. Asumiendo procesos y
 
 - Mi objetivo principal no es que funcione el sitio sino crear los models y views correctos. Así como poner bien las urls. 
 
-- El proyecto está subido en el repositorio Git,  Github a través del siguiente enlace: #ponerenlaceGitcuandolosuba. 
+- El proyecto está subido en el repositorio Git,  Github a través del siguiente enlace: https://github.com/EduBallester/casopractico 
 
 - Utilización de API REST djangorestframework para los serializers, views y urls. 
 
